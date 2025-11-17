@@ -1,0 +1,7 @@
+# links_video.txt
+# Escribe aquí una URL de vídeo por línea.
+# Pueden ser vídeos individuales o páginas con reproductores embebidos.
+# Las líneas que empiezan por # se ignoran.
+# Ejemplos:
+# https://www.youtube.com/watch?v=VIDEO_ID
+# https://www.ejemplo.com/mi-video
